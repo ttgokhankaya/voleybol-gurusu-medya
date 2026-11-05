@@ -1,0 +1,16 @@
+21 sayı bloğu. Peki 32 dokunuş? 🏐
+
+Sultanlar Ligi'nde blok listesinin zirvesinde orta oyuncu Beyza Arıcı var: 53 başarılı blok. Bunların 21'i doğrudan sayı, 32'si pozitif blok, yani topu yavaşlatıp oyunda tutan dokunuş.
+
+Blok yalnız sayı değildir:
+1. Sayı bloğu: görünen kısım
+2. Pozitif blok: rakibin sert hücumunu oynanabilir bir topa çeviren kısım
+3. Yönlendirme: smaççıyı savunmanın beklediği yere vurduran kısım
+
+Antrenmanda dene: 10 dakikalık blok çalışmasında her blokçu için üç sütun tut: Sayı, Dokunuş, Yön.
+
+Sen takımında bloğu nasıl sayıyorsun? Yorumlarda yaz. Kaydet, bir orta oyuncuya gönder.
+
+Kaynak: TVF lig liderleri, 3 Kasım 2026 itibarıyla.
+
+#voleybol #voleybolgurusu #blok #ortaoyuncu #volleyball
