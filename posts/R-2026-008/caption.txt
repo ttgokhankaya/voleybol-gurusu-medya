@@ -1,0 +1,14 @@
+Skorda görünmeyen blok.
+
+Efeler Ligi'nde blok listesinin başında orta oyuncu Yunus Emre Tayaz var: 18 sayı bloğu. Bir de 7 blok var: topa dokunup oyunda tutan bloklar. Skor tabelasında yazmazlar.
+
+O 7 topun her biri bir zincir başlatır:
+1. Blok dokunur, top yavaşlar.
+2. Savunma topu çıkarır.
+3. Karşı hücum başlar.
+
+Kaynak: TVF lig liderleri, 6 Kasım 2026 itibarıyla.
+
+Orta oyuncu takım arkadaşına gönder.
+
+#voleybol #voleybolgurusu #blok #ortaoyuncu #efelerligi #volleyball
