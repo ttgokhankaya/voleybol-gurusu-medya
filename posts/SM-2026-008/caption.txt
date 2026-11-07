@@ -1,13 +1,13 @@
-11 ace. Peki 26 zor servis? 🏐
+11 ace. Peki 26 etkili servis? 🏐
 
-Sultanlar Ligi'nde servis listesinin zirvesinde smaçör İlkin Aydın var: 114 servis, 11 ace ve rakibin karşılamasını bozan 26 zor servis.
+Sultanlar Ligi'nde servis listesinin zirvesinde smaçör İlkin Aydın var: 114 servis, 11 ace ve rakibin karşılamasını bozan 26 etkili servis.
 
 Servis yalnız ace değildir:
 1. Ace: görünen kısım
-2. Zor servis: karşılamayı bozup sayıyı hazırlayan kısım
+2. Etkili servis: karşılamayı bozup sayıyı hazırlayan kısım
 3. Hata: rakibe bedava sayı, en pahalı kısım
 
-Antrenmanda dene: her oyuncu 20 servis atsın; ace 3, zor servis 2, oyunda 1, hata 0 puan. Haftadan haftaya kendi toplamınla kıyasla.
+Antrenmanda dene: her oyuncu 20 servis atsın; ace 3, etkili servis 2, oyunda 1, hata 0 puan. Haftadan haftaya kendi toplamınla kıyasla.
 
 Sen takımında servisi nasıl ölçüyorsun? Yorumlarda yaz. Kaydet, servisçine gönder.
 
