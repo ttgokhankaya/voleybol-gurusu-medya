@@ -1,6 +1,6 @@
 # Görev kutusu: bulut ↔ media-manager (founder kararı 2026-11-08)
 
-Bulut oturumları founder'ın bilgisayarındaki oturumlara doğrudan mesaj atmaz (bir kez atıldığında o bulut oturumunun zamanlanmış görevleri kalıcı olarak düştü). Bunun yerine bu klasör kullanılır:
+Founder kararı (2026-11-08): media-manager'a doğrudan mesajı **yalnız koordinatör oturumu** (session_0163kqCWeSumb1zZ3tv6RWpr) atar; bu oturum bu yetkiyi zaten aldı. Başka hiçbir bulut oturumu (yayın masası dahil) yerel oturumlara mesaj atmaz, zamanlanmış görev kurmaz: atan oturumun zamanlanmış görevleri kalıcı olarak düşer. Koordinatör ulaşamadığında yedek yol bu klasördür:
 
 - `media-manager.md` — bulut koordinatörünün yazdığı görevler. Her görevin bir kimliği vardır (`G-YYYYMMDD-N`), durumu `bekliyor` ile başlar.
 - `media-manager-sonuc.md` — media-manager'ın sonuçları. Her sonuç görev kimliğiyle başlar.
